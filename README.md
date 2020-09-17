@@ -7,8 +7,8 @@ This repo contains a bare-bones example of how to create an library using Rollup
 Clone this repository and install its dependencies:
 
 ```
-git clone https://github.com/taixw2/rollup-react-typescript-eslint-starter
-cd rollup-starter-app
+git clone https://github.com/taixw2/rollup-react-typescript-eslint-starter MyLibrary
+cd MyLibrary
 npm ci
 
 ```
