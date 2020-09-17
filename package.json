@@ -5,7 +5,8 @@
   "types": "types/index.d.ts",
   "license": "MIT",
   "scripts": {
-    "build": "ts-node scripts/bundles/index.ts"
+    "build": "ts-node scripts/bundles/index.ts",
+    "start": "parcel index.html"
   },
   "files": [
     "dist",
